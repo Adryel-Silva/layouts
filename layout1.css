@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pai{
+    background-color: aliceblue;
+}
+.main{
+    background-color: aquamarine;
+}
+.header{
+    background-color: blue; 
+}
+.footer{
+    background-color: brown;
+}
